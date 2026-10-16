@@ -31,8 +31,8 @@
 ## Featured projects
 
 <table>
-  <tr>
-    <td width="50%">
+<tr>
+<td width="50%">
 
 <h3><a href="https://github.com/dbloodmoon/flashlearn">Flashlearn</a></h3>
 
@@ -44,8 +44,8 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 
 `FastAPI` `SQLAlchemy 2` `Pydantic v2` `PostgreSQL` `pytest` `GitHub Actions`
 
-    </td>
-    <td width="50%">
+</td>
+<td width="50%">
 
 <h3><a href="https://github.com/dbloodmoon/clash-royale-dashboard">Clash Royale Dashboard</a></h3>
 
@@ -57,8 +57,8 @@ Real-time clan and player analytics dashboard consuming the **official Supercell
 
 `Python` `Streamlit` `Pandas` `Requests`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
