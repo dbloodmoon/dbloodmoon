@@ -81,8 +81,11 @@ Real-time clan and player analytics dashboard consuming the **official Supercell
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dbloodmoon&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbloodmoon&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dbloodmoon&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbloodmoon&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
