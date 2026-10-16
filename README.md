@@ -41,6 +41,7 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 - **16 REST endpoints** with JWT auth (HS256 + bcrypt) and per-user data isolation
 - **51 pytest tests** running in GitHub Actions on every push
 - Vanilla HTML/CSS/JS SPA with no build step — bilingual ES/EN, dark theme, WCAG 2.1 AA
+- **[Live demo](https://flashlearn-79ip.onrender.com)** deployed on Render
 
 `FastAPI` `SQLAlchemy 2` `Pydantic v2` `PostgreSQL` `pytest` `GitHub Actions`
 
