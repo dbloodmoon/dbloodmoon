@@ -48,14 +48,6 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 </td>
 <td width="50%">
 
-<h3><a href="https://github.com/dbloodmoon/clash-royale-dashboard">Clash Royale Dashboard</a></h3>
-
-Real-time clan and player analytics dashboard consuming the **official Supercell API**.
-
-- KPIs for trophies, donations, inactivity and war participation
-- OOP API client, filterable members table, full ES/EN i18n
-- **[Live demo](https://clash-royale-dashboard.streamlit.app)** deployed on Streamlit Community Cloud
-
 `Python` `Streamlit` `Pandas` `Requests`
 
 </td>
