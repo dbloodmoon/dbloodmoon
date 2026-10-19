@@ -91,7 +91,7 @@ Emergency-coordination web app for reporting and locating people and aid points 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbloodmoon&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dbloodmoon&langs_count=3&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
