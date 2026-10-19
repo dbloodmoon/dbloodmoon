@@ -50,6 +50,24 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%">
+
+<h3><a href="https://somosayudave.vercel.app">AyudaVE</a></h3>
+
+Emergency-coordination web app for reporting and locating people and aid points during humanitarian emergencies.
+
+- Real-time report synchronization with **WebSockets**, migrated to **HTTP polling** after hitting persistent-connection limits on Vercel's serverless platform
+- **Live app** — source kept private (independent project)
+
+`JavaScript` `WebSockets` `HTTP polling` `Vercel`
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## What I bring
