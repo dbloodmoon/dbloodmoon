@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <h3><a href="https://github.com/dbloodmoon/flashlearn">Flashlearn</a></h3>
 
@@ -46,11 +46,7 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 `FastAPI` `SQLAlchemy 2` `Pydantic v2` `PostgreSQL` `pytest` `GitHub Actions`
 
 </td>
-<td width="50%">
 
-`Python` `Streamlit` `Pandas` `Requests`
-
-</td>
 </tr>
 </table>
 
