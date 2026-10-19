@@ -87,7 +87,7 @@ Emergency-coordination web app for reporting and locating people and aid points 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbloodmoon&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=dbloodmoon&show_icons=true&hide_border=true&theme=tokyonight](https://github-stats-extended.vercel.app/api?username=dbloodmoon&show_icons=true&include_all_commits=true&theme=tokyonight)" alt="GitHub stats"/>
 </p>
 
 <p align="center">
