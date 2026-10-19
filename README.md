@@ -59,7 +59,7 @@ Flashcard web app built around the **SM-2 spaced-repetition algorithm**. The ser
 Emergency-coordination web app for reporting and locating people and aid points during humanitarian emergencies.
 
 - Real-time report synchronization with **WebSockets**, migrated to **HTTP polling** after hitting persistent-connection limits on Vercel's serverless platform
-- **Live app** — source kept private (independent project)
+- **[Live app](https://somosayudave.vercel.app)** — source kept private (independent project)
 
 `JavaScript` `WebSockets` `HTTP polling` `Vercel`
 
